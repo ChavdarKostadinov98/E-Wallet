@@ -137,5 +137,5 @@ Please see the Teamwork Guidelines document.
 ## Legend
 
 - **Must** – implement these first.
-- **Should** – if you have time left, try to implement these.
+- **Should** – if you have time left, try to implement these
 - **Could** – implement if you have extra time and want to add additional features.
